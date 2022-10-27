@@ -1,0 +1,26 @@
+html {
+    background-color: aqua;
+    display: block;
+}
+
+.title {
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 100px;
+}
+
+.opinion {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 100px;
+}
+
+.button {
+    background-color: cornflowerblue;
+    border: 1;
+    border-color: black;
+    text-align: center;
+    width: 400px;
+}
